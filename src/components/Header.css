@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;700&display=swap');
+a{
+    border-radius: 3px;
+}
+a:hover{
+    background: linear-gradient(45deg, #f3ec78, #da5178);
+}
+.begin {
+    font-family: 'Poppins', sans-serif; /* Or whichever font you choose */
+  }
+  
+  .score {
+    color: #9c32edf5; /* Blue color for "Score" */
+  }
+  
+  .sync {
+    color: #e7b93c; /* Red color for "Sync" */
+  }
+  
